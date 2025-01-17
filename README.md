@@ -13,12 +13,12 @@ This is a simple flutter app created using Flutter.
 
 ### Light Mode
 
-![Home Screen Light Mode](screenshots/home-light-mode.jpg)
+<img src="screenshots/home-light-mode.jpg" alt="Home Screen - Light Mode" height="500">
 
-![Cities Screen Light Mode](screenshots/cities-light-mode.jpg)
+<img src="screenshots/cities-light-mode.jpg" alt="Cities Screen - Light Mode" height="500">
 
 ### Dark Mode
 
-![Home Screen Dark Mode](screenshots/home-dark-mode.jpg)
+<img src="screenshots/home-dark-mode.jpg" alt="Home Screen - Dark Mode" height="500">
 
-![Cities Screen Dark Mode](screenshots/cities-dark-mode.jpg)
+<img src="screenshots/cities-dark-mode.jpg" alt="Cities Screen - Dark Mode" height="500">
